@@ -1,0 +1,12 @@
+[submodule "ResponsiveWebDesign"]
+	path = ResponsiveWebDesign
+	url = https://github.com/Kyle-Rose/ResponsiveWebDesign.git
+[submodule "JavaScript-Algorithms-and-Data-Structures"]
+	path = JavaScript-Algorithms-and-Data-Structures
+	url = https://github.com/Kyle-Rose/JavaScript-Algorithms-and-Data-Structures.git
+[submodule "FrontEndLibraries"]
+	path = FrontEndLibraries
+	url = https://github.com/Kyle-Rose/FrontEndLibraries.git
+[submodule "Python"]
+	path = Python
+	url = https://github.com/Kyle-Rose/Python.git
