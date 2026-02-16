@@ -6,13 +6,17 @@ Welcome! This repository consolidates key coding certifications and project work
 
 This repository includes projects and submitted work for the following certification tracks:
 
-Responsive Web Design
+- **Front End Libraries Certification**  
+  https://github.com/Kyle-Rose/FrontEndLibraries
 
-JavaScript Algorithms & Data Structures
+- **JavaScript Algorithms and Data Structures Certification**  
+  https://github.com/Kyle-Rose/JavaScript-Algorithms-and-Data-Structures
 
-Front End Libraries
+- **Responsive Web Design Certification**  
+  https://github.com/Kyle-Rose/ResponsiveWebDesign
 
-Python
+- **Python Certification**  
+  https://github.com/Kyle-Rose/Python
 
 Each folder represents a certification category and contains completed project files, challenges, and assignments relevant to that track.
 
